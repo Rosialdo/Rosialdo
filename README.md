@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Rosialdo ✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosialdo-vidinho-15443a21b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosialdo2/)
 
 ![Rosialdo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosialdo&show_icons=true&theme=tokyonight)
 
